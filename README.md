@@ -1,9 +1,9 @@
 # Login and Sign Up Form
 
-## All the source files are in src/login_form/
+All the source files are in src/login_form/
 
-## Database is not available in this Repository.
-## You have to create the database by Yourself.
+Database is not available in this Repository.
+You have to create the database by Yourself.
 
 ## Database Details.
 	Database name - loginDB
